@@ -1,0 +1,21 @@
+{
+    "locales": ["mn", "en"],
+    "defaultLocale": "mn",
+    "pages": {
+        "*": ["common" , "sidebar" , "help-sidebar", "profile-sidebar"],
+        "/login": ["login"],
+        "rgx:^/app/dashboard/account" : ["account" , "account-sidebar" ],
+        "rgx:^/app/dashboard/payment" : ["payment-sidebar" , "payment"],
+        "rgx:^/app/dashboard/credit" : ["loan" ],
+        "rgx:^/app/dashboard/help" : ["contract", "question" ],
+        "rgx:^/app/dashboard/transaction-history" : ["transaction" ],
+        "rgx:^/app/dashboard" : ["dashboard" ],
+        "rgx:^/registration" : ["registration" ],
+        "rgx:^/forgot-password" : ["forgot-password"],
+        "rgx:^/app/dashboard/credit/card" : ["card"],
+        "rgx:^/app/dashboard/profile" : ["profile"],
+        "rgx:^/app/dashboard/profile/pincode" : ["pincode"]
+    },
+    "localeDetection": false,
+    "logBuild": false
+}

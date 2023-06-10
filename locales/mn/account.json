@@ -1,0 +1,58 @@
+{
+    "account-charge" : {
+        "title" : "Монпэй данс цэнэглэх",
+        "with-bank-app" : "Банк апликейшнаар ",
+        "use-card" : "Карт ашиглах",
+        "charge-amount" : "Цэнэглэх дүн",
+        "enter-charge" : "Цэнэглэх дүн оруулна уу",
+        "charge-button" : "Цэнэглэх" , 
+        "choose-card" : "Картаа сонгоно уу",
+        "add-new-card" : "Шинэ карт нэмэх", 
+        "continue" : "Үргэжлүүлэх"
+    },
+    
+    "account-transfer" : {
+        "title" : "Шилжүүлэг хийх",
+        "between-accounts" : "MonPay данс хооронд",
+        "to-bank" : "Банкны данс руу",
+        "account-fund" : "Дансны нэгдсэн сан",
+        "receiver" : "Хүлээн авагчын утасны дугаар",
+        "receiver-name" : "Хүлээн авагчийн нэр",
+        "transfer-amount" : "Шилжүүлэх дүн" ,
+        "transaction-value " : "Гүйлгээний утга",
+        "to-claim" : "Нэхэмжлэх",
+        "transfer" : "Шилжүүлэх",
+        "recipient-bank" : "Хүлээн авагч банк",
+        "recipient-account" : "Хүлээн авагчийн данс",
+        "recipient-name" : "Хүлээн авагчийн нэр",
+        "amount" : "Мөнгөн дүн",
+        "type-of-consolidated" : "Дансны нэгдсэн сангийн төрөл",
+        "value-of-consolidated" : "Бүртгэлтэй утасны дугаар",
+        "recipient-account-number" : "Хүлээн авагчийн дансны дугаар",
+        "desc" : "Та гар утсаараа дараах банкны апликейшнуудаас сонгоод QPay хэсэг рүү орж дээрх кодыг уншуулна уу."
+    },
+    "account-conf" : {
+        "conf-transfer" : "Шилжүүлэг баталгаажуулах",
+        "to-bank-transfer" : "Банкны данс руу шилжүүлэг",
+        "save-template" : "Гүйлгээний загвар хадгалах уу?",
+        "trans-pin" : "Гүйлгээний пин кодоо оруулна уу",
+        "cancel" : "Үйлдлийг цуцлах",
+        "pls-enter-temp" : "Загварын нэр оруулна уу."
+    },
+    "confirmation" : "баталгаажуулах",
+    "btwn-mp" : "MonPay данс хооронд",
+    "phone-number" : "Утасны дугаар",
+    "email" : "И-Мэйл",
+    "home-tele" : "Гэрийн утасны дугаар",
+    "account-select" : "Дансны нэгдсэн сангийн төрөл сонгоно уу.",
+    "account": "Таны данс",
+    "amount" : " дүн",
+    "record-delete" : "Бичлэгийг устгах",
+    "sure" : "Та картын мэдээллээ устгахдаа итгэлтэй байна уу?",
+    "yes" : "Тийм",
+    "transfer" : "Шилжүүлэг",
+    "your" : "Таны",
+    "successfully" : "дугаартай шилжүүлэг амжилттай боллоо.",
+    "was-success" : "амжилттай боллоо.",
+    "thanks" : "Баярлалаа"
+}

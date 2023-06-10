@@ -1,0 +1,14 @@
+{
+    "card-info" : "ID card information",
+    "pls-correct" : "Please enter your information correctly",
+    "id-front" : "Front of ID card",
+    "id-back" : "Back of ID card",
+    "up-photo" : "Upload a photo",
+    "up-selfie" : "Upload a selfie",
+    "signature" : "Signature",
+    "clear" : "Clear",
+    "note" : "Note",
+    "desc" : "The image should be color and clear, and the image size should not exceed 8 MB. Files with JPG or PNG extensions will not accept black and white or PDF files.",
+    "Cont" : "Continue",
+    "loan-service" : "Loan service"
+}

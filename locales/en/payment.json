@@ -1,0 +1,43 @@
+{
+    "payment" : {
+        "pay-your-bills" : "Pay your bills" ,
+        "registered-payments" : "Here you can only make payments registered on another.",
+        "more" : "Pay"
+    },
+
+    "single-payment" : {
+        "title" : "Mobicom payment",
+        "information" : "Payment information",
+        "phone-number" : "Phone number",
+        "payment" : "Payment",
+        "individual" : "Individual",
+        "organization" : "Organization",
+        "payment-total" : "Amount to be paid",
+        "transfer" : "Transfer",
+        "cancel" : "Cancel action",
+        "org-name" : "Organization name",
+        "org-id" : "Organization id",
+        "enter-pin" : "Enter your transaction PIN code"
+    }, 
+
+    "other-payments" : {
+        "title" : "Pay others",
+        "desc" : "You can pay others with your account.",
+        "service" : "Payment service",
+        "phone" : "Phone number",
+        "amount" : "Amount",
+        "continue" : "Continue"
+    },
+   
+    "plus" : "Plus",
+    "acc-name" : "Login name or contract number",
+    "more" : "More",
+    "payment-connect" : "Payment connect",
+    "record-delete" : "Record delete",
+    "sure" : "are you sure for delete card information?",
+    "yes" : "Yes",
+    "rec-acc-number" : "Receipt account number",
+    "paymentt": "Payment",
+    "account-number" : "Account number"
+
+}

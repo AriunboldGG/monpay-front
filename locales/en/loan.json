@@ -1,0 +1,53 @@
+{
+    "loan" : {
+        "title" : "Monpay loan service",
+        "descreption" : "You need to sign a service agreement to obtain a loan service.",
+        "contract-text" : "When you make a contract Please visit nearest Mobicom store and make a contract.",
+        "contract-point" : "Contract",
+        "get-loan-title" : "Get a monpay loan",
+        "get-desc" : "You can quickly get a loan that suits your eligibility.",
+        "get-loan-amount" : "Loan amount",
+        "interest-rate" : "Interest rate",
+        "loan-term" : "Loan term",
+        "repayment-date" : "Repayment date",
+        "repay-amount" : "Amount to be repaid",
+        "agree" : "the terms of the loan.",
+        "im" : "I agree to",
+        "agree-button" : "service conditions",
+        "continue-button" : "Continue",
+        "days" : "day"
+    },
+
+    "loan-confirm" : {
+        "confirmation" : "Loan confirmation",
+        "check" : "Please check your credit information carefully",
+        "loan-amount" : "Loan amount",
+        "cancel" : "Cancel action",
+        "get-loan" : "Get a loan",
+        "transaction-pin" : "Transaction pin code please enter"
+    },
+
+    "active-loan" : {
+        "active-loan" : "Active Monpay loan",
+        "active-desc" : "You can get another loan by repaying your current loan",
+        "loan-balance" : "Loan balance",
+        "remaining-days" : "Remaining days",
+        "basic-payment" : "Basic payment",
+        "increased-interest" : "Increased interest",
+        "total-amount" : "Total amount to be paid"
+    },
+    
+    "repay-loan" : {
+        "repay-confirm" : "Loan repayment guarantee",
+        "check-carefully" : "Please check your repayment amount carefully",
+        "total-balance" : "Total balance",
+        "repay-loan" : "Repay the loan"
+    },
+    "loann": "Loan Service",
+    "your" : "Your",
+    "transfer" : "Transfer",
+    "successfull" : "Number transfer is successful",
+    "thanks" : "Thank you",
+    "Success" : "Successful",
+    "repay-credit" : "Your credit back payment successful"
+}

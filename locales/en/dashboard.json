@@ -1,0 +1,28 @@
+{
+    "balance" : "Balance",
+    "mp-account" : "Monpay account",
+    "loan-balance" : "Loan balance",
+    "remaining-days" : "Remaining days",
+    "days" : "Days",
+    "loan-repay" : "repay loan",
+    "consumption-fee" : "Consumption fee",
+    "changes-exp" : "Changes in income and expenditure",
+    "income" : "Income",
+    "exp" : "Expense",
+    "easy-transaction" : "Easy transaction",
+    "payment-history" : "Payment history",
+    "charge" : "Charge",
+    "transfer" : "Transfer",
+    "desc" : "You enter into a service opening agreement to receive a loan required.",
+    "close-you" : "The closest to you",
+    "title-1" : "At the Mobicom branch",
+    "title-2" : "go and make a deal.",
+    "contract-points" : "Contract points",
+    "possible-products" : "Possible borrowing rights",
+    "get-loan" : "Get a loan",
+    "read-more" : "Read more",
+    "dashboard": "Dashboard",
+    "trans-temp-desc" : "Sorry, you do not currently have a saved transaction template."
+
+
+}

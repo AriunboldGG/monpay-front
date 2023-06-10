@@ -1,0 +1,58 @@
+{
+    "account-charge" : {
+        "title" : "Monpay Cash in",
+        "with-bank-app" : "Bank application",
+        "use-card" : "Use card",
+        "charge-amount" : "Charge amount",
+        "enter-charge" : "Please enter a charge",
+        "charge-button" : "Charge" ,
+        "choose-card" : "Choose card",
+        "add-new-card" : "Add new card",
+        "continue" : "Continue"
+    },
+    
+    "account-transfer" : {
+        "title" : "Make a transfer",
+        "between-accounts" : "Between accounts",
+        "to-bank" : "To bank",
+        "account-fund" : "Consolidated account fund",
+        "receiver" : "Recipient's phone number",
+        "receiver-name" : "Receiver name",
+        "transfer-amount" : "Transfer amount" ,
+        "transaction-value " : "Transaction value",
+        "to-claim" : "To claim",
+        "transfer" : "Transfer",
+        "recipient-bank" : "Recipient bank",
+        "recipient-account" : "Recipient's account",
+        "recipient-name" : "Recipient's name",
+        "amount" : "Amount",
+        "type-of-consolidated" : " Type of consolidated account fund",
+        "value-of-consolidated" : "Registered phone number",
+        "recipient-account-number" : "Recipient's account number",
+        "desc" : "You can choose from the following banking applications on your mobile phone and go to the QPay section and read the above code." 
+    },
+    "account-conf" : {
+        "conf-transfer" : "Confirm the transfer",
+        "to-bank-transfer" : "To a bank account transfers",
+        "save-template" : "Transaction template storage are you?",
+        "trans-pin" : "Please enter your transaction pin code",
+        "cancel" : "Cancel",
+        "pls-enter-temp" : "Please enter template name"
+    },
+    "confirmation" : "Confirmation",
+    "btwn-mp" : "Between MonPay accounts",
+    "phone-number" : "Phone number",
+    "email" : "Email",
+    "home-tele" : "Home telephone number",
+    "account-select" : "Account integrated fund type select Please.",
+    "account": "Account",
+    "amount" : " amount",
+    "record-delete" : "Record delete",
+    "sure" : "are you sure for delete card information?",
+    "yes" : "Yes",
+    "transfer" : "Transfer",
+    "your" : "Your",
+    "successfully" : "Transfer number was successful.",
+    "was-success" : "was successful",
+    "thanks" : "Thank you"
+}

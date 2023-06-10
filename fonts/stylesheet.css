@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Code Next';
+    src: url('subset-CodeNext-Bold.eot');
+    src: url('subset-CodeNext-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-CodeNext-Bold.woff2') format('woff2'),
+        url('subset-CodeNext-Bold.woff') format('woff'),
+        url('subset-CodeNext-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next';
+    src: url('subset-CodeNext-SemiBold.eot');
+    src: url('subset-CodeNext-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('subset-CodeNext-SemiBold.woff2') format('woff2'),
+        url('subset-CodeNext-SemiBold.woff') format('woff'),
+        url('subset-CodeNext-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* sf pro rounded  */

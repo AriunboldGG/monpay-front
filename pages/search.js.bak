@@ -1,0 +1,21 @@
+// import { ictApiGetBaseData, ictApiWPGetPost } from 'lib/Api';
+// import PageSearch from 'components/pages/PageSearch';
+
+// const Page = props => <PageSearch {...props} />
+
+// export default Page
+
+// export async function getStaticProps({ locale }) {
+//   const slug = 'search'
+//   let post_type = 'page'
+//   let props = { post_type, menu:{} }
+//   const apiGetBaseDataResult = await ictApiGetBaseData({ lang: locale })
+//   props.menu.main   = apiGetBaseDataResult&&apiGetBaseDataResult.menuMain    ? apiGetBaseDataResult.menuMain    :{}
+//   props.themeOption = apiGetBaseDataResult&&apiGetBaseDataResult.themeOption ? apiGetBaseDataResult.themeOption :{}
+//   props.page = await ictApiWPGetPost( { api: 'pages/', params: { slug, lang: locale }, single: true } )
+
+//   return {
+//     props,
+//     revalidate: 60*5, // In seconds
+//   }
+// }

@@ -1,0 +1,125 @@
+// import { RenderElementWrapper } from "components/elements/RenderElements";
+// import { Row, Col, Pagination } from "react-bootstrap";
+// import ReactPaginate from "react-paginate";
+// import { useRouter } from "next/router";
+// import { useIct } from "hooks/use-ict";
+
+// const TwBlogCats = (props) => {
+//     const { ictCtx, setIctCtx } = useIct();
+//     const $content = props.content;
+//     const $atts = props.atts;
+//     const router = useRouter();
+//     const crrPage = ictCtx.paged ? parseInt(ictCtx.paged, 10) : 1;
+
+//     const handleChangePagination = (e) => {
+//         const newPage = e.selected ? parseInt(e.selected, 10) + 1 : 1;
+//         if (crrPage !== newPage) {
+//             router.push(
+//                 process.env.NEXT_PUBLIC_SITE_URL +
+//                     "/" +
+//                     ictCtx.path +
+//                     (newPage > 1 ? "/paged/" + newPage : "")
+//             );
+//         }
+//     };
+//     return (
+//         <RenderElementWrapper atts={$atts}>
+//             <Row className="category">
+//                 <Col md={3}>
+//                     <div className="lates-posts">
+//                         <h3 className="title">Сүүлд нийтлэгдсэн</h3>
+//                     </div>
+//                 </Col>
+//                 <Col md={2}></Col>
+//                 <Col className="cats">
+//                     {$content.cats &&
+//                         Object.entries($content.cats) &&
+//                         Object.entries($content.cats).map(([id, cat_name]) => (
+//                             <div
+//                                 className="cat-item"
+//                                 key={cat_name}
+//                                 onClick={(e) => {
+//                                     e.preventDefault();
+//                                     if (
+//                                         ictCtx &&
+//                                         process.env.NEXT_PUBLIC_SITE_URL +
+//                                             "/" +
+//                                             ictCtx.path
+//                                     ) {
+//                                         router.push(
+//                                             process.env.NEXT_PUBLIC_SITE_URL +
+//                                                 "/news/" +
+//                                                 cat_name
+//                                         );
+//                                     }
+//                                 }}
+//                             >
+//                                 <span>{cat_name}</span>
+//                             </div>
+//                         ))}
+//                 </Col>
+//             </Row>
+//             <Row>
+//                 {$content.posts &&
+//                     $content.posts.map((item, i) => (
+//                         <Col className="post" md={3}>
+//                             <div className="post-content">
+//                                 {item.img && item.title && item.publish_date && (
+//                                     <div>
+//                                         <img src={item.img} />
+//                                         <div className="item">
+//                                             <span className="post-date">
+//                                                 {item.publish_date}
+//                                             </span>
+//                                             {item.cats.map((cat) => (
+//                                                 <span className="cats">
+//                                                     {cat.name}
+//                                                 </span>
+//                                             ))}
+//                                         </div>
+//                                         <a
+//                                             href={`/post/${item.id}`}
+//                                             className="post-title"
+//                                         >
+//                                             {item.title}
+//                                         </a>
+//                                     </div>
+//                                 )}
+//                             </div>
+//                         </Col>
+//                     ))}
+//             </Row>
+//             <Row className="blog-paginate">
+//                 {$content.pagination && $content.pagination.pages && (
+//                     <nav className="tw-element tw-pagination">
+//                         <ReactPaginate
+//                             breakLabel=" "
+//                             previousLabel=""
+//                             nextLabel=""
+//                             initialPage={crrPage - 1}
+//                             forcePage={crrPage - 1}
+//                             pageCount={$content.pagination.pages}
+//                             pageRangeDisplayed={0}
+//                             marginPagesDisplayed={2}
+//                             renderOnZeroPageCount={null}
+//                             containerClassName="pagination justify-content-center"
+//                             pageClassName="page-item"
+//                             pageLinkClassName="page-link"
+//                             previousClassName="page-item-prev"
+//                             previousLinkClassName="page-link-prev"
+//                             nextClassName="page-item-next"
+//                             nextLinkClassName="page-link-next"
+//                             breakClassName="page-item-break"
+//                             breakLinkClassName="page-link-break"
+//                             activeClassName="active"
+//                             disabledClassName="disabled"
+//                             onPageChange={handleChangePagination}
+//                         />
+//                     </nav>
+//                 )}
+//             </Row>
+//         </RenderElementWrapper>
+//     );
+// };
+
+// export default TwBlogCats;

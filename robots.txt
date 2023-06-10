@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://monpay.mn
+
+# Sitemaps
+Sitemap: https://monpay.mn/sitemap.xml

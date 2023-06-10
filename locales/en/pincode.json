@@ -1,0 +1,17 @@
+{
+    "crrnt-pincode" : "Enter current pin code",
+    "new-pin" : "New pin code",
+    "repeat-new" : "Repeat new pin code",
+    "recover-pin" : "Recover pin",
+    "change" : "Change",
+    "cnge-trans-pin" : "Change the transaction pin code",
+    "recover-trans-pin" : "Recover transaction pin code",
+    "crrnt-phone" : "Current phone number",
+    "register" : "Register № last 6 digits",
+    "get-verif-code" : "Get verification code",
+    "enter-verif" : "Enter your verification code",
+    "cont" : "Continue",
+    "save" : "Save",
+    "settings": "Settings"
+
+}

@@ -1,0 +1,23 @@
+{
+    
+    "asks" : {
+        "what" : "What is Monpei?",
+        "q1" : "How to be registered by MonPay?",
+        "q2" : "How to recharge the MonPay account?",
+        "q3" : "Where to open MonPay payment card?",
+        "q4" : "Where to inform if the partner organizations had not made payments by MonPay account?",
+        "q5" : "I would like to have a business where I get the services have the possibility to make payments using the MonPay account. Where should i contact?",
+        "q6" : "How to see the information of businesses that accepts MonPay payment and nearby me?",
+        "q7" : "What happens if I did not repay the MonPay loan?",
+        "a1" : "MonPay is a national electronic payment system approved by the Mongolbank and bearing the first special permission of Mongolia. You can make purchases and make the payments faster by the simple methods using MonPay application while you can use the different types of daily necessary services and be covered by the discounts and rewards.",
+        "a2" : "The users of all mobile operators can be registered by the MonPay application and www.monpay.mn website",
+        "a3" : "You can charge the MonPay account by clicking on the menu “Recharge” of MonPay application. Or you can recharge your MonPay account by choosing the Mobifinance NBFI from the internet bank application that you use and inserting your MonPay account number and making the transfer. (You can find out the MonPay account number that looks as 99********* from the MonPay application.",
+        "a4" : "You can visit all of the main branches of Mobicom and any branch of Xac bank bringing your Citizens ID to subscribe or go to the www.xacbank.mn/product/132 online and subscribe in the section “Subscribing the card”.",
+        "a5" : "You can dial 75752255 (during office hours) or the customer service center 1800-1199 (24/7) or inform us through “Help” > “Requests” of MonPay application.",
+        "a6" : "You can inform us through “Help” > “Request” of MonPay application.",
+        "a7" : "It is possible for you to click on the menu “Help” > Partners of MonPay application and get the information.",
+        "a8" : "In case of non-repayment of the loan, the right for outgoing calls of Mobicom phone number shall be temporarily closed and will be registered at the loan information fund by lowering the categories."
+    },
+    "faq" : "Frequently Asked Questions",
+    "help": "Help"
+}

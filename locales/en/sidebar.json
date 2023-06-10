@@ -1,0 +1,12 @@
+{
+    "title": {
+    "dashboard" : "Dashboard",
+    "account" : "Account",
+    "loan" : "Monpay Loan",
+    "payment" : "Payment",
+    "transaction-history" : "Transaction History",
+    "help" : "Help",
+    "settings" : "Settings",
+    "log-out" : "Logout"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Login",
+    "phone": "Mobile number",
+    "validation": {
+        "phone": "Phone number is invalid",
+        "password": "Please enter your password"
+    },
+    "password": "Password",
+    "recover": "Recover password",
+    "login": "Login",
+    "register": "Register"
+}

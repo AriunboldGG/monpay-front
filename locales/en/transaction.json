@@ -1,0 +1,34 @@
+{
+    "tab-1" : {
+        "title" : "Payment history",
+        "desc" : "You can view your payment information in tabular and graphical form.",
+        "current-balance" : "Current balance",
+        "total-income" : "Total income",
+        "total-exp" : "Total expense",
+        "all" : "All",
+        "income" : "Income",
+        "expense" : "Expense",
+        "by-graphic" : "By Graphic", 
+        "date" : "Date",
+        "trans-value" : "Transaction Value",
+        "first-balance" : "First balance",
+        "trans-amount" : "Transaction amount",
+        "final-balance" : "Final balance",
+        "related-account" : "Phone number",
+        "noat" : "NOAT",
+        "noat-title" : "NOAT receipt",
+        "lotteno" : "Lottery number",
+        "amount" : "Amount",
+        "ebarimtid" : "ID"
+    },
+
+    "tab-2" : {
+    "title" : "Account statement",
+    "desc" : "You can view your account statement information in tabular form.",
+    "product" : "Products",
+    "amount" : "Amount",
+    "status" : "Status"
+    },
+    "trans-history": "Transaction History"
+    
+}
